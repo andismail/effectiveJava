@@ -1,0 +1,4 @@
+rootProject.name = 'effectiveJava'
+
+include "enum"
+
