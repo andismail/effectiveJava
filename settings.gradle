@@ -1,4 +1,5 @@
 rootProject.name = 'effectiveJava'
 
 include "enum"
+include 'annotation'
 

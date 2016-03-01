@@ -37,6 +37,7 @@ public enum Operation {
     }
 
     public String symbol() {
+        ordinal();
         return symbol;
     }
 

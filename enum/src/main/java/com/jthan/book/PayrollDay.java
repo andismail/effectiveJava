@@ -14,6 +14,7 @@ public enum PayrollDay {
 
         double overtimePay;
 
+        //才知道这里还可以写this
         switch (this) {
             case SATURDAY:
             case SUNDAY:
